@@ -1,0 +1,11 @@
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\bin\Debug\netcoreapp2.1\webCodeGenerator.deps.json
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\bin\Debug\netcoreapp2.1\webCodeGenerator.runtimeconfig.json
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\bin\Debug\netcoreapp2.1\webCodeGenerator.runtimeconfig.dev.json
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\bin\Debug\netcoreapp2.1\webCodeGenerator.dll
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\bin\Debug\netcoreapp2.1\webCodeGenerator.pdb
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\obj\Debug\netcoreapp2.1\webCodeGenerator.csprojAssemblyReference.cache
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\obj\Debug\netcoreapp2.1\webCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\obj\Debug\netcoreapp2.1\webCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\obj\Debug\netcoreapp2.1\webCodeGenerator.AssemblyInfo.cs
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\obj\Debug\netcoreapp2.1\webCodeGenerator.dll
+C:\Users\ruben\Dropbox\KESI\php\root\git\buitenLes\c#\webCodeGenerator\webCodeGenerator\obj\Debug\netcoreapp2.1\webCodeGenerator.pdb
